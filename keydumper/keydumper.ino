@@ -1,8 +1,8 @@
+// Forked from https://github.com/mharjac/bad_ducky
 #include <Keyboard.h>
 
 void setup(){
   Keyboard.begin();
-  
   delay(3000);
   keydump(33,126);
   delay(5000);
@@ -22,9 +22,6 @@ void setup(){
   Keyboard.print("KEY_RIGHT_SHIFT 0x85\n");
   Keyboard.print("KEY_RIGHT_ALT 0x86\n");
   Keyboard.print("KEY_RIGHT_GUI 0x87\n");
-
-  
-
   Keyboard.end();
 }
 
@@ -39,6 +36,5 @@ void keydump (int start_pos, int end_pos) {
     delay(10);
   }
 }
-
 
 void loop(){}
