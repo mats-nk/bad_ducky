@@ -6,7 +6,7 @@
 
 ### [demo2](demo2.txt)
 
-
+Windows version of Hello World example. It wwill open Notepad and type "Hello World!"
 
 ### [demo3](demo3.txt)
 
