@@ -19,10 +19,3 @@ Windows Powerhell. Saves the SSID, Network type, Authentication and the password
 ### [demo5.txt](demo5.txt)
 
 Windows text to speach demo.
-
-## Other script resources
-
-Here you can find couple of scripts just for testing. More publicly available scripts can be found on the following links:
-- https://thehacktoday.com/60-best-rubber-ducky-usb-payloads/
-- https://ducktoolkit.com/viewscript/all/
-- https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
