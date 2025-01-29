@@ -1,6 +1,6 @@
 ## Demo time
 
-### [demo1](demo_scripts/demo1.txt)
+### [demo1](demo1.txt)
 
 `demo1.txt` will print "Hello World!" text. The script is OS independent script.
 
